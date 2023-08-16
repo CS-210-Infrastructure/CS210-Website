@@ -1,4 +1,3 @@
-# CS 210 Computer Systems (Fall 2023)
 ## Welcome!
 ### [Syllabus]()
 ### Course description
