@@ -3,9 +3,10 @@
 ### [Syllabus]()
 ### Course description
 Our goal is to:
-1) to provide a foundation for understanding how computer systems work from a software perspective,
-2) demystify the complex layers of software that make up the world around us and
-3) learn a new set of technical competencies.
+
+1) to provide a foundation for understanding how computer systems work from a software perspective,<br>
+2) demystify the complex layers of software that make up the world around us, and<br>
+3) learn a new set of technical competencies.<br>
    
 The course roughly breaks down into 3 major parts as follows:
 - The UNIX Development Environment: Learning what an OS Kernel is, what User Process are and the tools of the trade that go into developing foundational software.
