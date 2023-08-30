@@ -1,6 +1,6 @@
 # CS210 Computer Systems (Fall 2023)
 ## Welcome!
-### [Syllabus](https://www.cs.bu.edu/courses/cs210/files/syllabus_23spring.pdf)
+### [Syllabus](https://cs-210-fall-2023.github.io/CS210-Website/syllabus.pdf)
 ### Course description
 Our goal is to:
 
