@@ -1,4 +1,4 @@
-# CS210 Computer Systems (Fall 2024)
+# CS210 Computer Systems (Fall 2025)
 ## Welcome!
 ### [Syllabus](https://cs-210-infrastructure.github.io/CS210-Website/syllabus.pdf)
 
