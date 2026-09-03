@@ -1,9 +1,6 @@
-# CS210 Computer Systems (Fall 2025)
+# CS210 Computer Systems (Fall 2026)
 ## Welcome!
 ### [Syllabus](https://cs-210-infrastructure.github.io/CS210-Website/syllabus.pdf)
-
-### Course Calendar
-[Google Calendar](https://calendar.google.com/calendar/embed?src=c_7c2d913d2b407c9e3a61f4c9a4018948feee4d61d027e3750a6de1a3c7c3c146%40group.calendar.google.com&ctz=America%2FNew_York)
 
 ### Course description
 Our goal is to:
